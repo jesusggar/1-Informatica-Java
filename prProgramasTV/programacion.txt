@@ -1,0 +1,21 @@
+A3>El hormiguero@21:45-55
+Telecinco>Pasapalabra@20:10-55
+Telecinco>Informativos Telecinco@21:05-50
+La1>El Tiempo@16:15-10
+CanalSur>Canal Sur Noticias 2@20:20-40
+La1>Los desayunos de TVE@8:30-95
+CanalSur>Andalucía Directo@18:00-105
+CanalSur>Cómetelo@19:50-25
+La1>España Director@19:30-60
+LaSexta>Zapeando@15:45-80
+LaSexta>La Sexta Noticias@20:00-40
+LaSexta>Más vale tarde@17:15-150
+La1>Telediario 2@21:00-60
+A3>Tierra Amarga@17:45-70
+A3>¡Boom!@19:00-55
+LaSexta>La Sexta clave@20:45-10
+LaSexta>El Intermedio@21:30-50
+LaSexta>La Sexta Meteo@21:00-20
+A3>Noticias@21:00-40
+A3>Pasapalabra@20:00-55
+LaSexta>La Sexta Deportes@21:15-40
